@@ -1,1 +1,0 @@
-# FindTheIdexOfRightMostElement-LeftMostElement
